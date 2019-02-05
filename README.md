@@ -5,9 +5,9 @@ Install the following tools in advance. Other required R packages and training m
 
 * Latest R 3.5.2 release <https://cran.r-project.org/>  
 
-* RStudio Desktop <https://www.rstudio.com/products/rstudio/download/#download>
+* Latest RStudio Desktop <https://www.rstudio.com/products/rstudio/download/#download>
 
-* pandoc <https://pandoc.org/installing.html>
+* Latest pandoc <https://pandoc.org/installing.html>
 
 * git <https://git-scm.com> 
 
