@@ -13,3 +13,5 @@ Install the following tools in advance. Other required R packages and training m
 
 * R package packrat <https://cran.r-project.org/web/packages/packrat/index.html>
   - open RStudio, in Console window, type `install.packages("packrat")`
+
+Please follow the instruction in 01-RMarkdown_Basics.html to create a project in RStudio and copy the source files (the `src` directory) to the project directory just created.
